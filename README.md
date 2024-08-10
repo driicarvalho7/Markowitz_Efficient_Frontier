@@ -69,6 +69,6 @@ Abaixo está o gráfico de Drawdown:
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="result_drawdown.png" alt="Logo" width="550" height="200">
+    <img src="result_drawdown.png" alt="Logo" width="850" height="300">
   </a>
 </div>
